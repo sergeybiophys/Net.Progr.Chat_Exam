@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\STEP_SHAG\\istepSHAG\\Программирование\\15_Net.Programming\\exam\\Net.Progr.Chat_Exam\\Exam.Chat\\Chat.Server\\Chat.Server.csproj": {}
+    "C:\\root\\NetWorkProgramming\\Exam\\Net.Progr.Chat_Exam\\Exam.Chat\\Chat.Server\\Chat.Server.csproj": {}
   },
   "projects": {
-    "E:\\STEP_SHAG\\istepSHAG\\Программирование\\15_Net.Programming\\exam\\Net.Progr.Chat_Exam\\Exam.Chat\\Chat.Server\\Chat.Server.csproj": {
+    "C:\\root\\NetWorkProgramming\\Exam\\Net.Progr.Chat_Exam\\Exam.Chat\\Chat.Server\\Chat.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\STEP_SHAG\\istepSHAG\\Программирование\\15_Net.Programming\\exam\\Net.Progr.Chat_Exam\\Exam.Chat\\Chat.Server\\Chat.Server.csproj",
+        "projectUniqueName": "C:\\root\\NetWorkProgramming\\Exam\\Net.Progr.Chat_Exam\\Exam.Chat\\Chat.Server\\Chat.Server.csproj",
         "projectName": "Chat.Server",
-        "projectPath": "E:\\STEP_SHAG\\istepSHAG\\Программирование\\15_Net.Programming\\exam\\Net.Progr.Chat_Exam\\Exam.Chat\\Chat.Server\\Chat.Server.csproj",
-        "packagesPath": "C:\\Users\\SSergo\\.nuget\\packages\\",
-        "outputPath": "E:\\STEP_SHAG\\istepSHAG\\Программирование\\15_Net.Programming\\exam\\Net.Progr.Chat_Exam\\Exam.Chat\\Chat.Server\\obj\\",
+        "projectPath": "C:\\root\\NetWorkProgramming\\Exam\\Net.Progr.Chat_Exam\\Exam.Chat\\Chat.Server\\Chat.Server.csproj",
+        "packagesPath": "C:\\Users\\elekta\\.nuget\\packages\\",
+        "outputPath": "C:\\root\\NetWorkProgramming\\Exam\\Net.Progr.Chat_Exam\\Exam.Chat\\Chat.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SSergo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\elekta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

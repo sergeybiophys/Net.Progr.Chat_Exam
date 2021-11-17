@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\elekta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\elekta\\.nuget\\packages"
+    ]
+  }
+}

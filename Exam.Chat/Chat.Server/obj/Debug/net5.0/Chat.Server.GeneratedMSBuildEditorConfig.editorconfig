@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Chat.Server
-build_property.ProjectDir = E:\STEP_SHAG\istepSHAG\Программирование\15_Net.Programming\exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Server\
+build_property.ProjectDir = C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Server\
