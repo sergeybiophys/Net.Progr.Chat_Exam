@@ -13,4 +13,3 @@ C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Server\obj\De
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Server\obj\Debug\net5.0\ref\Chat.Server.dll
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Server\obj\Debug\net5.0\Chat.Server.pdb
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Server\obj\Debug\net5.0\Chat.Server.genruntimeconfig.cache
-C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Server\obj\Debug\net5.0\Chat.Server.csproj.AssemblyReference.cache
