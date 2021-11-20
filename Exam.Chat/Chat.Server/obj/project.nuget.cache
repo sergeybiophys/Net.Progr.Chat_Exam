@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "436yB3+oLVzF6RWrdIIYjfhqRT4LG+TbZdQ5AEMQhsoOHaEl58soExprta4EysUcZnazzgQEJkgMGSGpEVXPIw==",
+  "dgSpecHash": "kiBvPL4lyLEHGoUwbXgdxGmXZKxii6sEkR4jb8R7OTllbVAYW9VmYNqIB7CiUXST00yWR1bjdbGzdRtXR9Fcag==",
   "success": true,
-  "projectFilePath": "C:\\root\\NetWorkProgramming\\Exam\\Net.Progr.Chat_Exam\\Exam.Chat\\Chat.Server\\Chat.Server.csproj",
+  "projectFilePath": "C:\\root\\NetWorkProgramming\\Exam\\Net.Progr.Chat_Exam\\Exam.Chat\\Chat.Server\\ChatServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

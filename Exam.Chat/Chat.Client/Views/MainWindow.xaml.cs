@@ -14,7 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 
-namespace Chat.Client.Views
+namespace ChatClient.Views
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
