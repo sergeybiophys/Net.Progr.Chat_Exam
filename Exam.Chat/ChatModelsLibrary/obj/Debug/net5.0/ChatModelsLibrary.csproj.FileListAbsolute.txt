@@ -20,7 +20,6 @@ C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\ChatModelsLibrary\
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\ChatModelsLibrary\bin\Debug\net5.0\Accessibility.xml
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\ChatModelsLibrary\bin\Debug\net5.0\System.Windows.Forms.xml
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\ChatModelsLibrary\bin\Debug\net5.0\System.Runtime.Serialization.Formatters.Soap.xml
-C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\ChatModelsLibrary\obj\Debug\net5.0\ChatModelsLibrary.csproj.AssemblyReference.cache
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\ChatModelsLibrary\obj\Debug\net5.0\ChatModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\ChatModelsLibrary\obj\Debug\net5.0\ChatModelsLibrary.AssemblyInfoInputs.cache
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\ChatModelsLibrary\obj\Debug\net5.0\ChatModelsLibrary.AssemblyInfo.cs

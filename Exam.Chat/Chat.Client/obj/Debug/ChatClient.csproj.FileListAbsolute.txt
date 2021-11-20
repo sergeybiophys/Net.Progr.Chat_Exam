@@ -6,7 +6,6 @@ C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Client\bin\De
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Client\bin\Debug\MaterialDesignColors.pdb
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Client\bin\Debug\MaterialDesignThemes.Wpf.pdb
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Client\bin\Debug\MaterialDesignThemes.Wpf.xml
-C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Client\obj\Debug\ChatClient.csproj.AssemblyReference.cache
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Client\obj\Debug\Views\MainWindow.g.cs
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Client\obj\Debug\App.g.cs
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\Chat.Client\obj\Debug\Chat.Client_MarkupCompile.cache
