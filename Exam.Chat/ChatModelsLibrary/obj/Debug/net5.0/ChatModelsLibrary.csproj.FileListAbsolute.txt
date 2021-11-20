@@ -28,3 +28,4 @@ C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\ChatModelsLibrary\
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\ChatModelsLibrary\obj\Debug\net5.0\ChatModelsLibrary.dll
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\ChatModelsLibrary\obj\Debug\net5.0\ref\ChatModelsLibrary.dll
 C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\ChatModelsLibrary\obj\Debug\net5.0\ChatModelsLibrary.pdb
+C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\ChatModelsLibrary\obj\Debug\net5.0\ChatModelsLibrary.csproj.AssemblyReference.cache

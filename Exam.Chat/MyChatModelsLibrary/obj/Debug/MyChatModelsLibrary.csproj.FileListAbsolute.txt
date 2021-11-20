@@ -1,0 +1,5 @@
+C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\MyChatModelsLibrary\obj\Debug\MyChatModelsLibrary.csproj.CoreCompileInputs.cache
+C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\MyChatModelsLibrary\bin\Debug\MyChatModelsLibrary.dll
+C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\MyChatModelsLibrary\bin\Debug\MyChatModelsLibrary.pdb
+C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\MyChatModelsLibrary\obj\Debug\MyChatModelsLibrary.dll
+C:\root\NetWorkProgramming\Exam\Net.Progr.Chat_Exam\Exam.Chat\MyChatModelsLibrary\obj\Debug\MyChatModelsLibrary.pdb
